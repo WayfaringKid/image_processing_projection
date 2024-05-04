@@ -62,6 +62,7 @@ Graph Academy Project Projection
 - **view_previous_work**
 
 ## Implementation Plan
+This project has an estimated engineering hours of 17 days.
 
 ### **1. Project Setup**
 - **Task**: Set up the Next.js environment, Supabase, and Adobe Photoshop API.
