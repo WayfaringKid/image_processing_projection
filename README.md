@@ -85,7 +85,7 @@ This project has an estimated engineering hours of 17 days.
 - **Estimated Days**: 2 days
 
 ### **6. View Previous Work**
-- **Task**: Implement functionality to retrieve and display previously processed images from Supabase, including a user interface for browsing and downloading these images.
+- **Task**: Implement functionality to retrieve previously processed images from Supabase.
 - **Estimated Days**: 1.5 days
 
 ### **8. Testing and Quality Assurance**
