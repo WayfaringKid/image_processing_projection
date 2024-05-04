@@ -17,7 +17,7 @@ Graph Academy Project Projection
 - **Users can view and download their previously processed images.**
 
 ## Architecture Overview
-![Architecture](/graph_academy.jpg "Architecture")
+![Architecture](/graph_academy_1.jpg "Architecture")
 
 ### Components
 - **Client-side, Next.js server, Supabase, and Adobe Photoshop API.**
